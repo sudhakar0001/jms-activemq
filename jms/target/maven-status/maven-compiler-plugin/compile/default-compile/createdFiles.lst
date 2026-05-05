@@ -1,0 +1,8 @@
+com\mq\learning\jms\JmsApplication.class
+com\mq\learning\jms\config\JmsConfig.class
+com\mq\learning\jms\consumer\NotificationConsumer.class
+com\mq\learning\jms\producer\MessageProducer.class
+com\mq\learning\jms\consumer\AnalyticsConsumer.class
+com\mq\learning\jms\consumer\LoggingConsumer.class
+com\mq\learning\jms\controller\MessageProducer.class
+com\mq\learning\jms\consumer\MessageConsumer.class
